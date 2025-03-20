@@ -3,7 +3,7 @@ Matheus Lima Coutinho | Front - End
 - 👹 Pretendendo Full-Stack
 - 💬 Atualmente aprendendo - Tailwind css / React
 
-  # 👩🏻‍💻 Matheus Lima Coutinho
+  # 👺 Matheus Lima Coutinho
 
 Desenvolvedor Front-End
 </p>
