@@ -51,6 +51,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/matheus-coutinho-552919356/)
 
+<div align="center">
 👺
-
+</div>
 ---
