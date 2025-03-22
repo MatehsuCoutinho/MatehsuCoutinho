@@ -28,8 +28,8 @@
 ## 📈 My Github Statistics:
 
 <div align="center">
- ![matehsucoutinho's Stats](https://github-readme-stats.vercel.app/api?username=matehsucoutinho&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
- ![matehsucoutinho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matehsucoutinho&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=matehsucoutinho&theme=dracula&show_icons=true&locale=en" alt="matehsucoutinho" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=matehsucoutinho&theme=dracula&show_icons=true&locale=en&layout=compact" alt="matehsucoutinho" /></p>
 </div>
 ---
 
