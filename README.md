@@ -1,5 +1,5 @@
 <h1 align="center">Front-End | Matheus Lima Coutinho</h1>
-<h3 align="center">Currently studying Tailwind CSS, React. | Aiming to become Full-Stack.
+<h3 align="center">Currently studying Javascript, React. | Aiming to become Full-Stack.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
