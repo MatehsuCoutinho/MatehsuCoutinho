@@ -3,44 +3,30 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
-
-## 📈 My Github Statistics:
-
-<div align = center>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=matehsucoutinho&show_icons=true&theme=radical&cache_seconds=1000&locale=en&layout=compact" alt="matehsucoutinho" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matehsucoutinho&show_icons=true&theme=radical&cache_seconds=1000&locale=en" alt="matehsucoutinho" /></p>
-</div>
-
-
-## 🌍 How to find me:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-coutinho-552919356/)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,mongodb,npm,mysql,express,tailwind,github,javascript,typescript,css,html,git&perline=5" />
+  </a>
+</p>
+<h3 align="left">Github Stats:</h3>
 
 <div align="center">
-👺
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matehsucoutinho&show_icons=true&theme=radical&cache_seconds=1000&locale=en&layout=compact" alt="matehsucoutinho" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=matehsucoutinho&show_icons=true&theme=radical&cache_seconds=1000&locale=en" alt="matehsucoutinho" />
+    </td>
+  </tr>
+</table>
+
 </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-coutinho-552919356/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
