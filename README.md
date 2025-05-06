@@ -5,7 +5,7 @@
 <p align="left"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,mongodb,npm,mysql,express,tailwind,github,javascript,typescript,css,html,git&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,express,mongodb,mysql,npm,tailwind,github,javascript,typescript,css,html,git&perline=5" />
   </a>
 </p>
 <h3 align="left">Github Stats:</h3>
