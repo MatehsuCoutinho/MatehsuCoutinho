@@ -1,5 +1,5 @@
 <h1 align="center">Full-Stack | Matheus Lima Coutinho</h1>
-<h3 align="center">Currently studying Nodejs, React. | Computer Science Student.
+<h3 align="center">Currently studying Nestjs, React, NextJs. | Computer Science Student.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
