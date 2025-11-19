@@ -1,11 +1,11 @@
 <h1 align="center">Full-Stack | Matheus Lima Coutinho</h1>
-<h3 align="center">Currently Design Patterns and DevOps. | Computer Science Student.
+<h3 align="center">Currently learning Design Patterns and DevOps. | Computer Science Student.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,express,mongodb,npm,tailwind,github,mysql,javascript,typescript,css,html,git&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,express,mysql,javascript,typescript,css,html,git&perline=5" />
   </a>
 </p>
 <h3 align="left">Github Stats:</h3>
