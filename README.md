@@ -12,16 +12,8 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matehsucoutinho&show_icons=true&theme=radical&cache_seconds=1000&locale=en&layout=compact" alt="matehsucoutinho" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=matehsucoutinho&show_icons=true&theme=radical&cache_seconds=1000&locale=en" alt="matehsucoutinho" />
-    </td>
-  </tr>
-</table>
+![Metrics](./assets/metrics.svg)
+
 
 </div>
 
