@@ -1,10 +1,7 @@
 name: GitHub Metrics
 
 on:
-  # Permite execução manual do workflow
   workflow_dispatch:
-
-  # Executa automaticamente todo dia às 6h da manhã (UTC)
   schedule:
     - cron: "0 6 * * *"
 
@@ -17,23 +14,31 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Token de autenticação (obrigatório)
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Seu usuário do GitHub
           user: MatehsuCoutinho
-
-          # Nome do arquivo que será gerado
           filename: assets/metrics.svg
-
-          # Seções base a serem incluídas
-          base: header, activity, community, repositories, metadata
-
-          # Plugin de linguagens de programação
+          
+          # Configuração para duas colunas
+          base: header, activity
+          repositories_affiliations: owner
+          
+          # Plugin de linguagens (equivalente ao top-langs)
           plugin_languages: yes
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
           plugin_languages_limit: 8
-
-          # Plugin de linhas de código
-          plugin_lines: yes
+          plugin_languages_colors: github
+          plugin_languages_recent_calculation: true
+          
+          # Plugin de estatísticas (equivalente ao github stats)
+          plugin_stats: yes
+          plugin_stats_limit: 5
+          plugin_stats_contributors: yes
+          
+          # Layout em duas colunas
+          config_order: languages, stats, activity
+          config_padding: 20
+          config_output: svg
+          
+          # Estilo similar ao theme=radical
+          config_style: "rounded, dark, background=linear-gradient(135deg, #141321 0%, #1F1B2E 100%)"
